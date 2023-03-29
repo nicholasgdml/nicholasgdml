@@ -1,5 +1,5 @@
-<h2 align="center">Olá 👋, Meu nome é Nicholas.</h1>
-<p align="left">Sou um estudante de 17 anos de idade, atualmente cursando Análise e Desenvolvimento de Sistemas na Uniter. Estou em busca de uma carreira emocionante como desenvolvedor de sistemas e tenho um forte interesse em desenvolvimento web, além de já possuir conhecimentos em Python.</h3>
+<h2 align="center">Bem-Vindo(a)! 👋</h1>
+<p align="left">Olá, meu nome é Nicholas e sou um estudante de 17 anos de idade, atualmente cursando Análise e Desenvolvimento de Sistemas na Uniter. Estou em busca de uma carreira emocionante como desenvolvedor de sistemas e tenho um forte interesse em desenvolvimento web, além de já possuir conhecimentos em Python.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nicholasgdml&label=Profile%20views&color=0e75b6&style=flat" alt="nicholasgdml" /> </p>
 
